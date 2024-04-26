@@ -1,22 +1,18 @@
 # Muhammad Ammar - Software Engineer
 
-👨‍💻 Software Engineer | MERN Stack Specialist | Web Development Enthusiast
+👨🏽‍💻 Software Engineer | React & React-Native Enthusiast | Open to Collaborations 🤝
 
 ## About Me ℹ️
 
-Hi, I'm Muhammad Ammar, a passionate software engineer specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack. I love creating robust and scalable web applications that deliver exceptional user experiences.
+- 👨🏽‍💻 I'm currently working as a Software Engineer.
+- 🌱 I'm in love with React and React-Native.
+- 👯 I’m looking forward to work with different organizations.
+- 🤔 I like to help others.
+- 💬 Ask me about anything, I am happy to help.
+- ⚡️ Motivation: I am learning Python.
+- 📫 How to reach me: muhammadammar42000@gmail.com
 
-## Skills and Technologies 💻
-
-- React
-- Node.js
-- Express.js
-- MongoDB
-- JavaScript
-- HTML
-- CSS
-- Git
-
+Let's connect and create amazing things together! 😊
 ## GitHub Stats 📊
 
 ![Muhammad Ammar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadammar42000&show_icons=true&theme=radical)
