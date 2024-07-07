@@ -13,9 +13,6 @@
 - 📫 How to reach me: muhammadammar42000@gmail.com
 
 Let's connect and create amazing things together! 😊
-## GitHub Stats 📊
-
-![Muhammad Ammar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadammar42000&show_icons=true&theme=radical)
 
 ## Most Used Languages 🌐
 
